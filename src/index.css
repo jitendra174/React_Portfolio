@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@reference "tailwindcss/utilities";
+
+html, body, #root {
+  @apply bg-black text-gray-100 scroll-smooth;
+}
