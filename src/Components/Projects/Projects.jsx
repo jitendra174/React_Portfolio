@@ -19,7 +19,7 @@ const projects = [
     desc: "Personal portfolio showcasing skills and projects. Built with React, Tailwind CSS, and Framer Motion. Fully responsive and interactive design.",
     stack: ["React", "Tailwind", "Framer Motion"],
     code: "https://github.com/jitendra174",
-    demo: "",
+    demo: "https://jitendrachinta-portfolio.vercel.app/",
   },
   {
     type: "Frontend",
